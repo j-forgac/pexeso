@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>YOU WON!</title>
+	<script src="js.js"></script>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="menu">
+	PEXESO COMPLETED!
+</div>
+
+<div id="sentence">
+	TOTAL TURNS:
+	<div id="score"></div>
+</div>
+
+<div class="button1">
+	<a href="index.html">Play again</a>
+</div>
+
+<script>document.getElementById('score').textContent = localStorage.getItem("score")</script>
+</body>
+</html>
