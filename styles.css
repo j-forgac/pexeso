@@ -1,8 +1,15 @@
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+
 .img-1 {
   background-image: url("images/1.png");
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-2 {
@@ -10,6 +17,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-3 {
@@ -17,6 +26,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-4 {
@@ -24,6 +35,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-5 {
@@ -31,6 +44,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-6 {
@@ -38,6 +53,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-7 {
@@ -45,6 +62,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-8 {
@@ -52,6 +71,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-9 {
@@ -59,6 +80,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-10 {
@@ -66,6 +89,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-11 {
@@ -73,6 +98,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-12 {
@@ -80,6 +107,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-13 {
@@ -87,6 +116,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-14 {
@@ -94,6 +125,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-15 {
@@ -101,6 +134,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-16 {
@@ -108,6 +143,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-17 {
@@ -115,6 +152,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-18 {
@@ -122,6 +161,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-19 {
@@ -129,6 +170,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-20 {
@@ -136,6 +179,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-21 {
@@ -143,6 +188,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-22 {
@@ -150,6 +197,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-23 {
@@ -157,6 +206,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-24 {
@@ -164,6 +215,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-25 {
@@ -171,6 +224,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-26 {
@@ -178,6 +233,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-27 {
@@ -185,6 +242,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-28 {
@@ -192,6 +251,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-29 {
@@ -199,6 +260,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-30 {
@@ -206,6 +269,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-31 {
@@ -213,6 +278,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-32 {
@@ -220,6 +287,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-33 {
@@ -227,6 +296,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-34 {
@@ -234,6 +305,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-35 {
@@ -241,6 +314,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-36 {
@@ -248,6 +323,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-37 {
@@ -255,6 +332,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-38 {
@@ -262,6 +341,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-39 {
@@ -269,6 +350,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-40 {
@@ -276,6 +359,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-41 {
@@ -283,6 +368,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-42 {
@@ -290,6 +377,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-43 {
@@ -297,6 +386,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-44 {
@@ -304,6 +395,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-45 {
@@ -311,6 +404,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-46 {
@@ -318,6 +413,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-47 {
@@ -325,6 +422,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-48 {
@@ -332,6 +431,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-49 {
@@ -339,6 +440,8 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
 }
 
 .img-50 {
@@ -346,11 +449,38 @@
   background-size: cover;
   width: 70px;
   height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
+}
+
+.void {
+  background-image: url("images/void.png");
+  background-size: cover;
+  width: 70px;
+  height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
+}
+
+.menu {
+  width: 100%;
+  height: 120px;
+  margin: 0 0 100px 0;
+  font-weight: bold;
+  color: white;
+  font-size: 80px;
+  text-align: center;
+  background-color: #da8767;
 }
 
 #wholePexeso {
   display: flex;
-  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.rowCards {
+  background-color: #f1ecde;
 }
 
 /*# sourceMappingURL=styles.css.map */

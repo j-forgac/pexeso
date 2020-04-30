@@ -11,17 +11,7 @@ function startGame() {
 
 function renderCards() {
 	generateRandCards();
-	for (let x = 0; x < cardsArray.length; x++) {
-		rowCards = document.createElement("div");
-		rowCards.setAttribute("class", "rowCards");
-		wholePexeso.appendChild(rowCards);
-		divCards[x] = [];
-		for (let y = 0; y < cardsArray[x].length; y++) {
-			divCards[x][y] = document.createElement("div");
-			divCards[x][y].setAttribute("class", "img-" + cardsArray[x][y]);
-			rowCards.appendChild(divCards[x][y]);
-		}
-	}
+
 }
 
 function generateRandCards() {
@@ -36,6 +26,20 @@ function generateRandCards() {
 				cardsArray[x][y] = possibleNum;
 				y++;
 			}
+		}
+	}
+	for (let x = 0; x < cardsArray.length; x++) {
+		rowCards = document.createElement("div");
+		rowCards.setAttribute("class", "rowCards");
+		wholePexeso.appendChild(rowCards);
+		divCards[x] = [];
+		for (let y = 0; y < cardsArray[x].length; y++) {
+			divCards[x][y] = document.createElement("div");
+			divCards[x][y].setAttribute("class", "void");
+			divCards[x][y].dataset.x = x.toString();
+			divCards[x][y].dataset.y = y.toString();
+			divCards[x][y].addEventListener("click", changeSide);
+			rowCards.appendChild(divCards[x][y]);
 		}
 	}
 }
@@ -55,4 +59,10 @@ function check(x,y,possibleNum) {
 			}
 		}
 		return true;
+}
+
+function changeSide() {
+	let x = parseInt(this.dataset.x);
+	let y = parseInt(this.dataset.y);
+	divCards[x][y].setAttribute("class", "img-" + cardsArray[x][y]);
 }

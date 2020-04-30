@@ -1,4 +1,7 @@
-
+body{
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
 
 @for $x from 1 through 50{
   .img-#{$x} {
@@ -6,11 +9,40 @@
 	background-size: cover;
 	width: 70px;
 	height: 70px;
+	background-color: white;
+	margin: 6px 3px 6px 3px;
   }
+}
+
+.void{
+  background-image: url("images/void.png");
+  background-size: cover;
+  width: 70px;
+  height: 70px;
+  background-color: white;
+  margin: 6px 3px 6px 3px;
+}
+
+.menu{
+  width: 100%;
+  height: 120px;
+  margin: 0 0 100px 0;
+  font-weight: bold;
+  color: white;
+  font-size: 80px;
+  text-align: center;
+  background-color: #da8767;
 }
 
 #wholePexeso{
   display: flex;
-  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
 }
+
+.rowCards{
+  background-color: #f1ecde;
+}
+
+
 
