@@ -1,0 +1,16 @@
+
+
+@for $x from 1 through 50{
+  .img-#{$x} {
+	background-image: url("images/#{$x}.png");
+	background-size: cover;
+	width: 70px;
+	height: 70px;
+  }
+}
+
+#wholePexeso{
+  display: flex;
+  align-items: center;
+}
+
